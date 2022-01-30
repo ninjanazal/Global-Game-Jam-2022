@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 3a0b8b96e1ff39540b280defbbc559f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6346258977927561028
+    second: Character_sprite_0
+  - first:
+      213: -3914056978171311531
+    second: Character_sprite_1
+  - first:
+      213: -6462235250242437728
+    second: Character_point
+  - first:
+      213: 5881558465331017783
+    second: Character_default
+  - first:
+      213: 2031430402647311792
+    second: Character_squashed_0
+  - first:
+      213: -4734427747600454564
+    second: Character_squashed_1
+  - first:
+      213: -4719077470477617855
+    second: Character_sprite_6
+  - first:
+      213: -6045686286007785849
+    second: Character_sprite_7
+  - first:
+      213: 3891928715120561239
+    second: Character_sprite_8
+  - first:
+      213: 7271920240903291256
+    second: Character_hand_L_closed
+  - first:
+      213: 3169300761517338502
+    second: Character_fart
+  - first:
+      213: 7304874221542784430
+    second: Character_sprite_11
+  - first:
+      213: -2406292442678507948
+    second: Character_hand_R_point
+  - first:
+      213: 5752017928837117156
+    second: Character_hat
+  - first:
+      213: 4878735674297047962
+    second: Character_hand_R_closed
+  - first:
+      213: -3553222139165452395
+    second: Character_foot_front
+  - first:
+      213: -900528776412824830
+    second: Character_foot_default
+  - first:
+      213: 6282570417018830707
+    second: Character_foot_back
+  - first:
+      213: 7718362272767080040
+    second: Character_hand_L_point
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character_point
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 506
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adba4e37478156a0800000000000000
+      internalID: -6462235250242437728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_default
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 458
+        width: 306
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383fbb234e7f9150800000000000000
+      internalID: 5881558465331017783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_squashed_0
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 482
+        width: 351
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5c8bf2037113c10800000000000000
+      internalID: 2031430402647311792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_squashed_1
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 507
+        width: 400
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca5813c0feb4eb0800000000000000
+      internalID: -4734427747600454564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 126
+        width: 264
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7862e03ba58691ca0800000000000000
+      internalID: -6045686286007785849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 132
+        width: 268
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c47ebcb88e20630800000000000000
+      internalID: 3891928715120561239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_hand_L_closed
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 351
+        width: 127
+        height: 110
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871830a4eec0be460800000000000000
+      internalID: 7271920240903291256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_fart
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 177
+        width: 198
+        height: 112
+      alignment: 9
+      pivot: {x: 0.84061825, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fad9c304e9bfb20800000000000000
+      internalID: 3169300761517338502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 132
+        width: 325
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead37ffc660206560800000000000000
+      internalID: 7304874221542784430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_hand_R_point
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 236
+        width: 176
+        height: 113
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c070c5c12b9ed0800000000000000
+      internalID: -2406292442678507948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_hat
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 22
+        width: 113
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b30ea4d543df40800000000000000
+      internalID: 5752017928837117156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_hand_R_closed
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 116
+        width: 127
+        height: 110
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b50834f30c4b340800000000000000
+      internalID: 4878735674297047962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_foot_front
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 113
+        height: 131
+      alignment: 9
+      pivot: {x: 0.12457114, y: 0.64116246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975dfa4a4b60bec0800000000000000
+      internalID: -3553222139165452395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_foot_default
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3
+        width: 145
+        height: 106
+      alignment: 9
+      pivot: {x: 0.29744706, y: 0.8489106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b75eb59dda083f0800000000000000
+      internalID: -900528776412824830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_foot_back
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 134
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4594107, y: 0.8904854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff8cef18c203750800000000000000
+      internalID: 6282570417018830707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_hand_L_point
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 176
+        height: 113
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866fe0ce7912d1b60800000000000000
+      internalID: 7718362272767080040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55c40d45b299e2b41ba32b6aa3a4911b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
